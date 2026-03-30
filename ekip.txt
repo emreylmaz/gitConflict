@@ -1,2 +1,2 @@
-organizator: ???
+organizator: Melek
 eğitmen: Emre
