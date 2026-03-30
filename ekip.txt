@@ -1,2 +1,2 @@
-organizator: Melek
+organizator: Melek, elif
 eğitmen: Emre
